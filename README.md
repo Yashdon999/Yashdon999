@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">A Crazy developer and Ethical Hacker</h3>
 
-- 🔭 I’m currently working on **Python Project , Cpp Projects**
+- 🔭 I’m currently working on **Python Project & Cpp Projects**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms ,Ethical hacking**
+- 🌱 I’m currently learning **Data Structures and Algorithms & Ethical hacking**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yashdon999](https://github.com/Yashdon999)
 
