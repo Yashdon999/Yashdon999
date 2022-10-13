@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Photoshop Projects, Ethical hacking**
 
-- 🌱 I’m currently learning **Ethical Hacking , Kali Operating system**
+- 🌱 I’m currently learning **Ethical Hacking , Kali linux Operating system**
 
 - 👨‍💻 All of my projects are available at [https://yashdon999.github.io/Portfolio/](https://yashdon999.github.io/Portfolio/)
 
