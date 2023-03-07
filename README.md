@@ -25,8 +25,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashdon999&" alt="yashdon999" /></p>
  -->
+ <h1 align="center">Hi 👋, I'm Yash</h1>
+ <h3 align="center">A Crazy developer & passionate Ethical Hacker</h3>
+ 
  # 💫About Me :
-🔭 I’m currently working on **Java Projects, Ethical hacking**
+- 🔭 I’m currently working on **Java Projects, Ethical hacking**
 
 - 🌱 I’m currently learning **Ethical Hacking , Kali linux Operating system**
 
@@ -49,3 +52,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Yashdon999&icon=7&color=5)](https://visitcount.itsvg.in)
+
+
