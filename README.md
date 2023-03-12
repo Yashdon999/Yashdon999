@@ -1,8 +1,9 @@
-![DevvSakib is typing now..](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=3000&pause=1000&color=FFDD00&center=true&width=400&height=30&lines=Frontend+Developer;Hellow+World+!!)
-
-
 <!-- <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">A Crazy developer & passionate Ethical Hacker</h3>
+
+<p align="center">
+![DevvSakib is typing now..](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=3000&pause=1000&color=FFDD00&center=true&width=400&height=30&lines=Frontend+Developer;Hellow+World+!!)</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashdon999&label=Profile%20views&color=0e75b6&style=flat" alt="yashdon999" /> </p>
 
