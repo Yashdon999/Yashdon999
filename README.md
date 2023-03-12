@@ -1,10 +1,6 @@
 <!-- <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">A Crazy developer & passionate Ethical Hacker</h3>
 
-<p align="center">
-![DevvSakib is typing now..](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=3000&pause=1000&color=FFDD00&center=true&width=400&height=30&lines=Frontend+Developer;Hellow+World+!!)</p>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashdon999&label=Profile%20views&color=0e75b6&style=flat" alt="yashdon999" /> </p>
 
 - 🔭 I’m currently working on **Photoshop Projects, Ethical hacking**
@@ -43,6 +39,10 @@
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/#2857) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yash_vyavahare_)
+
+
+![DevvSakib is typing now..](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=3000&pause=1000&color=FFDD00&center=true&width=400&height=30&lines=Frontend+Developer;Hellow+World+!!)
+
 
 <div align="Center">
   <img height="200" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  />
