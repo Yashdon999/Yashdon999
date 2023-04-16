@@ -4,12 +4,15 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ![DevvSakib is typing now..](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=3000&pause=1000&color=FFDD00&center=true&width=400&height=30&lines=Frontend+Developer;Hellow+World+!!)
-
-/*<!-- <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p> -->
+<!-- 
+<!-- <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p> -->
 <div align="Center">
   <img height="200" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  />
-</div>*/
-<br>
+</div>
+<br> -->
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+
+<a href="https://github.com/harisdev-netizen"><img align="right" width="370" src="https://github.com/harisdev-netizen/harisdev-netizen/blob/main/Misc/gif-new.gif"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
