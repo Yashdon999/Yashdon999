@@ -1,16 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">A Crazy developer & passionate Ethical Hacker</h3>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
 ![DevvSakib is typing now..](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=3000&pause=1000&color=FFDD00&center=true&width=400&height=30&lines=Frontend+Developer;Hellow+World+!!)
 
-<a href="https://github.com/harisdev-netizen"><img align="right" width="370" src="https://github.com/harisdev-netizen/harisdev-netizen/blob/main/Misc/gif-new.gif"></a>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-
-# 💫 About Me:
+## 💫 About Me:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <a href="https://github.com/harisdev-netizen"><img align="right" width="370" src="https://github.com/harisdev-netizen/harisdev-netizen/blob/main/Misc/gif-new.gif"></a>
 
@@ -24,6 +18,7 @@
 
 - 📫 How to reach me **yashvyawahare300@gmail.com**
 <br><br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌐Socials
