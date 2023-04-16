@@ -2,7 +2,7 @@
 <!-- <h3 align="center">A Crazy developer & passionate Ethical Hacker</h3> -->
 <!-- 
 ![DevvSakib is typing now..](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=3000&pause=1000&color=FFDD00&center=true&width=400&height=30&lines=A+Crazy+Developer;Passionate+Ethical+Hacker!!) -->
-<div style="display: center; justify-content: center; align-items: center; height: 10vh;">
+<div style="display: flex; justify-content: center; align-items: center; height: 10vh;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=3000&pause=1000&color=FFDD00&center=true&width=400&height=30&lines=A+Crazy+Developer;Passionate+Ethical+Hacker!!" alt="typing animation">
 </div>
 
