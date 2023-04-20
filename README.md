@@ -6,10 +6,6 @@
 </div>
 
 
-<div style="display: flex; justify-content: center; align-items: center; height: 10vh;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=3000&pause=1000&color=FFDD00&center=true&width=400&height=30&lines=            A+Crazy+Developer;Passionate+Ethical+Hacker!!" alt="typing animation">
-</div>
-
 ## 💫 About Me:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
