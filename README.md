@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <!-- <h3 align="center">A Crazy developer & passionate Ethical Hacker</h3> -->
 
+
 <div align="center"> 
-![DevvSakib is typing now..](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=3000&pause=1000&color=FFDD00&center=true&width=400&height=30&lines=A+Crazy+Developer;Passionate+Ethical+Hacke)
+
+![DevvSakib is typing now..](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=3000&pause=1000&color=FFDD00&center=true&width=400&height=30&lines=A+Crazy+Developer;Passionate+Ethical+Hacker)
 </div>
 
 
