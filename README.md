@@ -43,6 +43,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"/>
+
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <br>
