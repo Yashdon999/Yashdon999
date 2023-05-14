@@ -11,7 +11,8 @@
 ## 💫 About Me:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://github.com/harisdev-netizen"><img align="right" width="370" src="https://github.com/harisdev-netizen/harisdev-netizen/blob/main/Misc/gif-new.gif"></a>
+<!-- <a href="https://github.com/harisdev-netizen"><img align="right" width="370" src="https://github.com/harisdev-netizen/harisdev-netizen/blob/main/Misc/gif-new.gif"></a> -->
+<a href="https://github.com/Yashdon999"><img align="right" width="370" src="https://github.com/Yashdon999/Yashdon999/blob/main/t.gif"></a>
 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
